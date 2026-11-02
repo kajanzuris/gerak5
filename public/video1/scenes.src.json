@@ -1,0 +1,159 @@
+{
+  "style": "explainer",
+  "scenes": [
+    {
+      "title": "*Kebanyakan* *orang* tuh sering salah di satu hal pas mau mulai jualan,",
+      "start": 0,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img01.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "*yaitu* *nunggu* produknya sempurna banget. Padahal ya,",
+      "start": 4,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img02.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "*mending* kamu coba *tawarin* dulu aja ke temen deket lewat chat pribadi.",
+      "start": 7.2,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img03.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "Nggak *usah* *pusing* mikirin logo atau kemasan yang estetik dulu deh,",
+      "start": 11.4,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img04.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "yang *paling* *penting* barangnya laku dulu. Nah,",
+      "start": 15.4,
+      "small": 1,
+      "pose": "thumbs",
+      "mascot": "left",
+      "stage": [
+        {
+          "type": "callout",
+          "title": "yang paling penting",
+          "sub": "barangnya laku dulu. Nah,"
+        }
+      ]
+    },
+    {
+      "title": "dari *situ* kamu bisa *kumpulin* testimoni jujur buat modal biar makin",
+      "start": 18.2,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img05.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "*percaya* *diri* nantinya. Jualan kamu jadi terasa ringan banget lho,",
+      "start": 22.1,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img06.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "*soalnya* nggak ada *beban* ekspektasi yang ketinggian.",
+      "start": 26.2,
+      "small": 1,
+      "stage": [
+        {
+          "type": "image",
+          "src": "img/img07.png",
+          "h": 960
+        }
+      ]
+    },
+    {
+      "title": "Kamu *bakal* *kaget* sendiri sih ternyata jualan itu sesimpel ini.",
+      "start": 29.3,
+      "small": 1,
+      "pose": "cheer",
+      "mascot": "left",
+      "stage": [
+        {
+          "type": "callout",
+          "title": "Kamu bakal kaget",
+          "sub": "sendiri sih ternyata jualan"
+        }
+      ]
+    },
+    {
+      "title": "Coba *simpan* *video* ini ya biar kamu nggak grogi lagi!",
+      "start": 33.1,
+      "small": 1,
+      "pose": "thumbs",
+      "mascot": "left",
+      "stage": [
+        {
+          "type": "callout",
+          "title": "Coba simpan video ini",
+          "sub": "ya biar kamu nggak grogi lagi!"
+        }
+      ]
+    }
+  ],
+  "header": false,
+  "accent": "#e5252a",
+  "char": "girl",
+  "charColor": "#222222",
+  "showCta": false,
+  "charStyle": "block",
+  "transitions": [
+    "fade",
+    "slide-left",
+    "slide-up",
+    "zoom"
+  ],
+  "transitionsMode": "random",
+  "backgrounds": [
+    "cream",
+    "mint",
+    "sky",
+    "sunset",
+    "navy"
+  ],
+  "bgMode": "single",
+  "bgEvery": 3,
+  "theme": "clean",
+  "audio": {
+    "music": true,
+    "sfx": true,
+    "blockSfx": true
+  }
+}
